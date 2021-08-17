@@ -61,9 +61,7 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendra-bhonsle&show_icons=true&locale=en&layout=compact&theme=prussian"
       alt="shivendra-bhonsle" /></p>
 
-  <p align="center">&nbsp;<img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=shivendra-bhonsle&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="shivendra-bhonsle" /></p>
+  
    
      
      
