@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra-bhonsle&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra-bhonsle" /> </p>
    
-   <p align="center"><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendra-bhonsle&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="shivendra-bhonsle" /></p>
+   
 
   
    
