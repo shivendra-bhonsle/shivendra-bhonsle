@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..🌱🪂.
 -->
-- 🐱‍👤 Improving my skills in App development
-- 🧭 I’m currently exploring the Machine Learning Domain<br/>
+- 🐱‍👤 App Developer
+
 - 📫 Reach me at: **shivendrabhonsle28@gmail.com**<br/>
   
   <p align="left">
