@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Shivendra</h1>
 
-<h3 align="center">Student  @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
-<h3 align="center">Flutter and Android Developer</h3>
+<h3 align="center">Student  @ <a href="https://www.cmu.edu/"> Pune Institute of Computer Technology</a> </h3>
+<h3 align="center">Software Engineer</h3>
 
 
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..🌱🪂.
 -->
-- 🐱‍👤 App Developer
+
 
 - 📫 Reach me at: **shivendrabhonsle28@gmail.com**<br/>
   
